@@ -1,0 +1,13 @@
+.topnav{
+    overflow: hidden;
+    background: yellowgreen;
+    padding-left: 70px;
+}
+.topnav a{
+    text-align: center;
+    padding-left: 60px;
+    color: red;
+}
+.intro h1{
+    float: left;
+}
