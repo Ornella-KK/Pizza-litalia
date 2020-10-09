@@ -1,13 +1,24 @@
+.intro{
+    background-repeat: repeat;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFMd509fvwfEeYsBoYc1TGIYJNQous1pqkuA&usqp=CAU");
+    background-size: cover;
+    line-height: 3;
+}
 .topnav{
     overflow: hidden;
-    background: yellowgreen;
+    background: transparent;
     padding-left: 70px;
 }
 .topnav a{
     text-align: center;
     padding-left: 60px;
-    color: red;
+    padding-bottom: 30px;
+    color: wheat;
 }
 .intro h1{
     float: left;
+}
+.welcome h2{
+    padding-top: 20%;
+    text-align: center;
 }
