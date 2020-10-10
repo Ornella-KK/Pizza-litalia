@@ -1,8 +1,9 @@
 .intro{
-    background-repeat: repeat;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFMd509fvwfEeYsBoYc1TGIYJNQous1pqkuA&usqp=CAU");
+    background-repeat: no-repeat;
+    background-image: url("img/bck5.jpg");
+    background-position: center;
     background-size: cover;
-    line-height: 3;
+    height: 600px;
 }
 .topnav{
     overflow: hidden;
@@ -13,10 +14,12 @@
     text-align: center;
     padding-left: 60px;
     padding-bottom: 30px;
-    color: wheat;
+    color: rgb(41, 0, 0);
 }
 .intro h1{
     float: left;
+    color: darkred;
+    font-family: fantasy;
 }
 .welcome h2{
     padding-top: 20%;
