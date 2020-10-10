@@ -92,3 +92,21 @@ form#now{
     padding-right: 30%;
     color: whitesmoke;
 }
+#contacts h1{
+    padding-top: 15px;
+    color: darkred;
+    text-align: center;
+}
+#contacts .cus{
+    text-align: center;
+    background-image: url("img/bck6.jpg");
+    color: rgb(46, 4, 4);
+}
+#contacts form{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+input[type=text]{
+    background: transparent;
+    color: teal;
+}
