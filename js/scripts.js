@@ -47,3 +47,9 @@ $(document).ready(function(){
     }
     })
 })
+// user interface for contacts
+$("document").ready(function(){
+    $("#third").click(function(){
+        alert("Thank You For Subscribing")
+    })
+})
