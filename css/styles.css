@@ -46,3 +46,11 @@
     padding-top: 25%;
     padding-left:1px;
 }
+#menu img{
+    overflow: hidden;
+    height: 250px;
+}
+#menu img#one{
+    height: 280px;
+    line-height: 0;
+}
