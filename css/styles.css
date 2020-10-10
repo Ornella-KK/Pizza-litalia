@@ -46,11 +46,49 @@
     padding-top: 25%;
     padding-left:1px;
 }
-#menu img{
+#menu h1{
+    text-align: center;
+    color: rgb(139, 38, 1);
+    padding-top: 5%;
+}
+#menu .box .imgBox img{
     overflow: hidden;
     height: 250px;
+    transition: transform 2s;
 }
-#menu img#one{
-    height: 280px;
-    line-height: 0;
+#menu .box .imgBox img#one{
+    width:373px;
+}
+#menu .box .text{
+    position: absolute;
+    top: 10px;
+    bottom:10px;
+    right:10px;
+    left:30px;
+    background: rgba(0,0,0,0.8);
+    transform: scaleY(0);
+    transition: transform .5s;
+    color: white;
+    border:3px solid white;
+    text-align:center;
+    padding:50px;
+}
+#menu .box:hover .text{
+    transform:scaleY(1)
+}
+#ttl{
+    display:none;
+}
+#orderNow{
+    text-align: center;
+    color: darkred;
+}
+#orderNow h1{
+    padding-top: 8%;
+}
+form#now{
+    background-color: black;
+    padding-left: 30%;
+    padding-right: 30%;
+    color: whitesmoke;
 }
