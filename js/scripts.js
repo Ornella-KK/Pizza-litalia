@@ -32,7 +32,8 @@ $(document).ready(function(){
     $("#fourth").click(function(){
         prompt("Enter Your Location: ");
         prompt("Enter Your Phone Number: ");
-        alert("Thank You For Ordering,Pizza will be there in a few")
+        alert("Delivery price is Rwf 500.")
+        alert("Thank You For Ordering, Pizza will be there in a few")
     })
 })
 // user interface for contacts
