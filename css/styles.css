@@ -110,3 +110,25 @@ input[type=text]{
     background: transparent;
     color: teal;
 }
+.icons{
+    padding-top: 10%;
+}
+.fa-facebook{
+    background: blue;
+}
+.fa-twitter{
+    background: rgb(1, 156, 207);
+}
+.fa-youtube{
+    background: red;
+}
+.fa-pinterest{
+    background:rgb(134, 7, 7);
+}
+.fa{
+    font-size: larger;
+    color: white;
+}
+.fa:hover{
+    box-shadow: rosybrown;
+}
