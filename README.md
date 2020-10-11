@@ -18,6 +18,8 @@ Pizza Italia is a website application that allows users to order pizza and is de
 
 ### Live Link:
 https://ornella-kk.github.io/Pizza-litalia/
+### Contact:
+okk@gmail.com
 ### License
 MIT
 COPYRIGHT(c)2020.
